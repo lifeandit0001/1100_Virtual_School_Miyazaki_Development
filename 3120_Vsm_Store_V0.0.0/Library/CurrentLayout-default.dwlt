@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 15
+  controlID: 95
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 16
+  controlID: 100
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 101
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/SimpleShopInteriors/_prefabs/Environment
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/SimpleShopInteriors/_prefabs/Environment
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\GitHub\lifeandit0001\1100_Virtual_School_Miyazaki_Development\3110_Vsm_Game_V0.0.0
+  m_LastProjectPath: C:\GitHub\lifeandit0001\1100_Virtual_School_Miyazaki_Development\3120_Vsm_Store_V0.0.0
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b2380000
-    m_LastClickedID: 14514
-    m_ExpandedIDs: 00000000b2380000b4380000b6380000b8380000ba380000bc380000be380000c0380000c2380000c4380000c638000000ca9a3b
+    scrollPos: {x: 0, y: 29}
+    m_SelectedIDs: 2a3c0000
+    m_LastClickedID: 15402
+    m_ExpandedIDs: 00000000b2380000b4380000b6380000b8380000ba380000bc380000be380000c0380000c2380000c6380000243c0000263c0000323c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -423,7 +423,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -502,23 +502,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f8360000
-      m_LastClickedID: 14072
-      m_ExpandedIDs: 40fbffff88350000
+      m_SelectedIDs: 7232feff
+      m_LastClickedID: -118158
+      m_ExpandedIDs: 7432feff7849feffdcdbfeff1cfbffff88350000ce36000038370000f4ce000008cf000016cf00001acf0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Park
+        m_OriginalName: Park
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 52966
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -126.34505, y: -39.177383, z: -116.763466}
+    m_Target: {x: -115.109825, y: -325.0484, z: 75.67273}
     speed: 2
-    m_Value: {x: -126.34505, y: -39.177383, z: -116.763466}
+    m_Value: {x: -115.109825, y: -325.0484, z: 75.67273}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.06671124, y: 0.9305255, z: -0.21474753, w: -0.28906825}
+    m_Target: {x: -0.020833401, y: 0.9320782, z: -0.3575675, w: -0.054307353}
     speed: 2
-    m_Value: {x: -0.066711076, y: 0.93052316, z: -0.214747, w: -0.28906754}
+    m_Value: {x: -0.020751841, y: 0.93261003, z: -0.35616767, w: -0.05433834}
   m_Size:
-    m_Target: 220.3165
+    m_Target: 1749.9465
     speed: 2
-    m_Value: 220.3165
+    m_Value: 1674.59
   m_Ortho:
     m_Target: 0
     speed: 2
